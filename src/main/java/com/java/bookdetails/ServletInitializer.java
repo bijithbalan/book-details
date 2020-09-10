@@ -1,4 +1,4 @@
-package com.graphqljava.bookdetails;
+package com.java.bookdetails;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

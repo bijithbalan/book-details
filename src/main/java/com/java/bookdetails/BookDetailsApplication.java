@@ -1,4 +1,4 @@
-package com.graphqljava.bookdetails;
+package com.java.bookdetails;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
